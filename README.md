@@ -1,2 +1,2 @@
 # LFS
-Linux From Sratch acripts
+Linux From Sratch scripts
